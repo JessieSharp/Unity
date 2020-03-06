@@ -1,5 +1,5 @@
 # Unity
-Some games for android made in Unity
+My projects in Unity
 
 ## Block Builder
 <img src="https://github.com/JessieSharp/Unity/blob/master/Block%20Builder/Screenshot_2017-08-21-17-11-27-857_com.BlueApps.BlockBuilder.png?raw=true" width="270" height="465"> <img src="https://github.com/JessieSharp/Unity/blob/master/Block%20Builder/Screenshot_2017-08-21-17-11-36-026_com.BlueApps.BlockBuilder.png?raw=true" width="270" height="465"> <img src="https://github.com/JessieSharp/Unity/blob/master/Block%20Builder/Screenshot_2017-08-21-21-11-17-478_com.BlueApps.BlockBuilder.png?raw=true" width="270" height="465">
